@@ -31,6 +31,7 @@
             "times": "بار",
             "verses-range": "طیف آیات"
         },
+        "select-reciter": "خواننده را انتخاب کنید",
         "title": "سمعی"
     },
     "ayah": "آیه",
@@ -139,6 +140,7 @@
     },
     "prev": "قبلی",
     "privacy": "حریم خصوصی",
+    "product-updates": "به روز رسانی محصول",
     "q-reflect": "قرآن انعکاس",
     "quran-com": "قرآن دات کام",
     "reading-preference": {

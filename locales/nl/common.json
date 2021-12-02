@@ -31,6 +31,7 @@
             "times": "keer",
             "verses-range": "Bereik van verzen"
         },
+        "select-reciter": "Selecteer voordrager",
         "title": "Audio"
     },
     "ayah": "Aya",
@@ -139,6 +140,7 @@
     },
     "prev": "Vorig",
     "privacy": "Privacy",
+    "product-updates": "Productupdates",
     "q-reflect": "KoranReflect",
     "quran-com": "koran.com",
     "reading-preference": {

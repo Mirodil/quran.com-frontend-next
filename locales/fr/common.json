@@ -31,6 +31,7 @@
             "times": "fois",
             "verses-range": "Gamme de vers"
         },
+        "select-reciter": "Sélectionnez le récitant",
         "title": "l'audio"
     },
     "ayah": "Ayah",
@@ -139,6 +140,7 @@
     },
     "prev": "Précédent",
     "privacy": "Intimité",
+    "product-updates": "Mises à jour du produit",
     "q-reflect": "CoranRéfléchir",
     "quran-com": "Coran.com",
     "reading-preference": {

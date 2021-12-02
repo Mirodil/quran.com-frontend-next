@@ -31,6 +31,7 @@
             "times": "اوقات",
             "verses-range": "آیات کی حد"
         },
+        "select-reciter": "تلاوت کرنے والا منتخب کریں۔",
         "title": "آڈیو"
     },
     "ayah": "آیہ",
@@ -139,6 +140,7 @@
     },
     "prev": "پچھلا",
     "privacy": "رازداری",
+    "product-updates": "پروڈکٹ اپڈیٹس",
     "q-reflect": "قرآن کی عکاسی",
     "quran-com": "Quran.com",
     "reading-preference": {
